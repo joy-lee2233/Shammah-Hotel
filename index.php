@@ -55,7 +55,7 @@ session_start();
 <body>
 
 <header>
-    <div class="bg-dark collapse" id="navbarHeader" style="">
+    <div class="bg-dark collapse" id="navbarHeader">
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-md-7 py-4">

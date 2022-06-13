@@ -26,6 +26,7 @@ session_start();
     require 'app/models/Reservation.php';
     require 'app/handlers/CustomerHandler.php';
     require 'app/handlers/BookingDetailHandler.php';
+    
 
     $username = null;
     $isSessionExists = $isAdmin = false;
@@ -303,7 +304,7 @@ session_start();
 </main>
 
 <footer class="container">
-    <p>&copy; Company 2017-2018</p>
+    <p>&copy; Company 2017-2022</p>
 </footer>
 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
