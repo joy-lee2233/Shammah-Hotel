@@ -1,13 +1,14 @@
 {
   "name": "hotel-mgmt-system",
   "version": "1.0.1",
-  "description": "Hotel booking system for customer added with an admin feature to manage reservation.",
+  "description": "Hotel booking system for customer added with an admin feature to manage reservation; confirm and cancel reservations.",
   "keywords": [
     "hotel",
     "hotel booking",
     "room reservation",
     "hotel booking system",
-    "hotel reservation system"
+    "hotel reservation system",
+    "Shammah Hotel"
   ],
   
   "author": "joy3333333",
