@@ -9,9 +9,8 @@
     "hotel booking system",
     "hotel reservation system"
   ],
-  "repository": "https://github.com/tramyardg/hotel-mgmt-system",
-  "homepage": "http://hotel-mgmt-system.co.nf/",
-  "author": "Raymart De Guzman <raymart54@gmail.com>",
+  
+  "author": "joy3333333",
   "private": false,
   "scripts": {
     "eslint": "eslint js/*.js"
