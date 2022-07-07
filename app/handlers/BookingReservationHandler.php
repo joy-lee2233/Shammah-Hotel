@@ -39,7 +39,7 @@ class BookingReservationHandler extends BookingReservationDAO
             $this->setExecutionFeedback(
                 array(
                 "heading" => "Well done!",
-                "content" => "You have reserved a room. You can view the status of your booking anytime.",
+                "content" => "You have successfully reserved a room. You can view the status of your booking anytime.",
                 "footer"  => "Your booking will be mark confirmed once approved."
                 )
             );
